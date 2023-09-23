@@ -1,0 +1,37 @@
+.header
+{
+    display: grid;
+    grid-template-columns: 8px 30px 465px 200px;
+    margin-top: -80px;
+    align-items: center;
+}
+
+
+
+.sidebar{
+    display: inline-block;
+    width: 50px;
+    margin-left: -70px;
+    cursor: pointer;
+
+
+}
+
+.search{
+    display: inline-block;
+    width: 50px;
+    cursor: pointer;
+   
+}
+
+.nijo{
+    display: inline-block;
+    width: 50px;
+    border-radius: 35px;
+    margin-left: 400px;
+}
+
+.nijotoptxt{
+ 
+    width: 300px;
+}
